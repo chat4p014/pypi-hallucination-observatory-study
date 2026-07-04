@@ -104,8 +104,11 @@ Computed from the CSVs in `data/`:
     generated from the Spracklen patterns; one dropped as a duplicate
     normalized name).
   - After filtering: 1869 packages for long-term monitoring. 188 were
-    still alive on the final phase-1 scan; 71 entered the phase-3
-    watchlist.
+    still alive on the final phase-1 scan; the phase-3 watchlist is a
+    union of two sources — 27 packages that survived phase 2 plus 44
+    packages taken from OSSF advisories still returning HTTP 200 and
+    from public disclosure reports (huggingface-cli, arangopipe,
+    requests3, ...) — for a total of 71 packages monitored closely.
   - OSSF PyPI advisories: 11233 records. 64 packages still responded
     with HTTP 200 during the study period; static analysis and manual
     review confirmed 10 (0.089%) as actively malicious.
@@ -115,6 +118,11 @@ Computed from the CSVs in `data/`:
   - Spearman correlation between release count and last-month
     downloads, restricted to the 18 watchlist packages with downloads
     > 0: rho = 0.80, p < 0.001, 95% CI [0.469, 0.970].
+
+Observation window: approximately 24 continuous days — phase 1 ran for
+about 36 hours with 8 scans over 2033 candidates; phase 3 ran for about
+20 days with 122 scans on 4-hour intervals over the 71-package
+watchlist.
 
 ## Ethical constraints
 
