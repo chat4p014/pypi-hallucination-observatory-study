@@ -1,0 +1,65 @@
+name,osv_id,published_utc,advisory_age_days,pypi_age_days,current_release_count,pypi_summary,source_advisory
+libtpu-nightly,MAL-2023-1375,2023-05-03T04:09:26+00:00,1130.495950118125,1204.5833809381945,1,A small example package,
+discord-boost,MAL-2024-5057,2024-06-25T13:34:45+00:00,711.1033690996064,42.255355579780094,6,Discord Boost Library,
+nvidia-clara-sim,MAL-2024-10315,2024-07-26T16:53:30+00:00,679.9653482662732,575.0150833168866,1,Zero version placeholder for nvidia-clara-sim,https://bad-packages.kam193.eu/pypi/package/nvidia-clara-sim
+chunqiuwestj-pkg-westj137,MAL-2024-12235,2024-07-26T16:53:30+00:00,679.9653482662732,1117.221122113426,1,A small example package,https://bad-packages.kam193.eu/pypi/package/chunqiuwestj-pkg-westj137
+crunchie,MAL-2024-12250,2024-07-26T16:53:30+00:00,679.9653482662732,1075.238421611551,1,Package that does absolutely nothing,https://bad-packages.kam193.eu/pypi/package/crunchie
+hack-test,MAL-2024-12281,2024-08-23T22:55:41+00:00,651.7138320625694,195.03820910627314,4,,https://bad-packages.kam193.eu/pypi/package/hack-test
+bitcommit,MAL-2024-12219,2024-08-27T21:24:04+00:00,647.7774547477546,1487.0529744906482,1,No more commenting your code: Use the GPT3-based CodeCommenter,https://bad-packages.kam193.eu/pypi/package/bitcommit
+c2,MAL-2024-12224,2024-08-27T21:24:04+00:00,647.7774547477546,1488.5147294230903,8,No more commenting your code: Use the GPT3-based CodeCommenter,https://bad-packages.kam193.eu/pypi/package/c2
+pymatcha,MAL-2024-12332,2024-09-04T21:25:32+00:00,639.7764362292361,598.0238815782061,1,,https://bad-packages.kam193.eu/pypi/package/pymatcha
+spiderai,MAL-2024-12348,2024-10-02T09:16:00+00:00,612.2830565996064,555.0712881120255,4,A Python library for extracting structured data from web pages using AI.,https://bad-packages.kam193.eu/pypi/package/spiderai
+apilogicserver,MAL-2025-3929,2025-05-17T03:44:30+00:00,385.5132649329398,1945.6323246812265,62,,
+treeherder-submitter,MAL-2025-191910,2025-07-28T15:45:43+00:00,313.01242002553244,313.08286505355323,1,Safe dummy package to demonstrate PoC upload - cygut7,https://bad-packages.kam193.eu/pypi/package/treeherder-submitter
+kwargs,MAL-2025-6533,2025-07-31T19:15:29+00:00,309.8667487292361,147.78286097251157,1,kwargs,
+num2words,MAL-2025-6794,2025-08-06T01:01:03+00:00,304.6267718773843,4756.94394497661,15,Modules to convert numbers to words. Easily extensible.,https://nitter.tiekoetter.com/SFLinux/status/1949906299308953827
+flask-tdg-cyberx,MAL-2025-191732,2025-08-17T19:39:48+00:00,292.84986215516204,289.1966682251852,1,play CTF,https://bad-packages.kam193.eu/pypi/package/flask-tdg-cyberx
+kraken123,MAL-2025-191778,2025-08-29T12:14:53+00:00,281.15883206256945,281.22968443828705,5,A virus package FOR EDUCATIONAL PURPOSES ONLY,https://bad-packages.kam193.eu/pypi/package/kraken123
+bioql,MAL-2025-47868,2025-09-30T19:03:01+00:00,248.87540613664353,249.95307340406248,63,"Production Quantum Computing for Drug Discovery - FMO-VQE, DC-QAOA, Adaptive QEC, Real Hardware Only",
+llmboost-hub,MAL-2025-112503,2025-11-11T02:03:07+00:00,207.58367002553243,151.61500733057872,9,A lightweight CLI tool for managing LLMBoost™ model images and environments.,
+tui-ascii-art,MAL-2026-2117,2026-03-20T15:31:34+00:00,78.0222464144213,93.79784842539352,2,Programmatic ASCII art generation for TUIs,https://bad-packages.kam193.eu/pypi/package/tui-ascii-art
+litellm,MAL-2026-2144,2026-03-24T11:15:14+00:00,74.20025567368056,1045.6439771722337,1282,Library to easily interface with LLM API providers,
+telnyx,MAL-2026-2254,2026-03-27T04:26:10+00:00,71.48432974775463,2531.9802511794333,223,The official Python library for the telnyx API,
+xinference,MAL-2026-3000,2026-04-22T22:06:22+00:00,44.74807974775463,1065.281614358044,141,Model Serving Made Easy,https://github.com/xorbitsai/inference/issues/4828
+elementary-data,MAL-2026-3083,2026-04-24T22:54:25+00:00,42.714711692199074,1586.1588474042594,94,Data monitoring and lineage,https://github.com/elementary-data/elementary/issues/2205
+lightning,MAL-2026-3201,2026-04-30T16:53:41+00:00,36.965220951458335,1318.0602385876275,171,"The Deep Learning framework to train, deploy, and ship AI products Lightning fast.",https://github.com/Lightning-AI/pytorch-lightning/issues/21691
+mistralai,MAL-2026-3608,2026-05-12T05:49:00+00:00,25.426806599606483,910.0959186771296,89,Python Client SDK for the Mistral AI API.,
+guan,MAL-2026-3692,2026-05-12T07:41:52+00:00,25.348426969976853,1808.6227872719792,396,An open source python package,
+dcchbot,MAL-2026-3689,2026-05-12T07:42:11+00:00,25.348207062569443,328.39230050636576,15,一個簡單的中文 Discord 管理機器人，支援 GUI 按鈕封鎖/禁言/警告        ,
+enhancer,MAL-2026-3691,2026-05-12T07:42:46+00:00,25.347801969976853,1738.4703469510414,50,Made for me!,
+mymaldependency,MAL-2026-3694,2026-05-12T07:43:18+00:00,25.34743159960648,1045.5476172740048,3,test to create package,
+pirxcypackage,MAL-2026-3695,2026-05-12T07:43:27+00:00,25.347327432939814,2086.2988057119333,109,PirxcyBot in a PyPi package form to easily be ran on repl. Or in a simple py file,
+projz-py,MAL-2026-3696,2026-05-12T07:43:34+00:00,25.347246414421296,1595.8742797048842,34,An asynchronous library for creating scripts and chatbots in Project Z.,
+crazehub,MAL-2026-3687,2026-05-12T07:43:40+00:00,25.347176969976854,1935.6501838422453,32,A collection of my favorite python scripts,
+dlty,MAL-2026-3690,2026-05-12T07:43:57+00:00,25.346980210717593,700.8016494147338,15,A small example package,
+kaggle-runner,MAL-2026-3693,2026-05-12T11:39:04+00:00,25.18370474775463,2217.520025398171,17,"Run kaggle kernels, for fast model prototyping.",
+always-updates,MAL-2026-3685,2026-05-12T19:16:19+00:00,24.86617002553241,2018.7354501605441,1623,"always_updates updates your system, always.",
+amino-fix,MAL-2026-3686,2026-05-13T00:19:49+00:00,24.655406136643517,1736.9861918450813,98,Library for Amino. Discord - https://discord.gg/Bf3dpBRJHj,
+d4rktg,MAL-2026-3688,2026-05-13T05:33:46+00:00,24.437385303310187,342.8088007682639,151,A module for create with easy and fast,
+durabletask,MAL-2026-4174,2026-05-19T16:47:48+00:00,17.969306599606483,1134.897248729699,125,A Durable Task Client SDK for Python,https://bad-packages.kam193.eu/pypi/campaign/2026-05-compr-durabletask
+crw,MAL-2026-4746,2026-05-19T19:42:27+00:00,17.84802187738426,69.21009693224538,21,"Python SDK for CRW web scraper — scrape, crawl, and map any website from Python",
+buddyme,MAL-2026-4743,2026-05-19T19:49:19+00:00,17.84325335886574,36.27445539196759,22,多模型 AI 智能体编程框架，支持多模型切换、工具调用和技能系统,
+soundsource,MAL-2026-4769,2026-05-19T19:52:10+00:00,17.841274192199073,22.644199389409724,2,Official Python SDK for the SoundSource API,
+clearml-truen-patch,MAL-2026-4745,2026-05-19T20:10:42+00:00,17.828403821828704,47.44919907032408,5,Overlay patches for clearml==2.1.3 (truen). Installs into the existing clearml package so `import clearml` picks up the patches.,
+saas-common-lib-473815,MAL-2026-4766,2026-05-19T20:28:28+00:00,17.81606585886574,241.21113625202548,31,Packaging all common functionalities,
+nebulix-ai,MAL-2026-4758,2026-05-19T20:37:26+00:00,17.80983900701389,19.203854666099538,4,Nebulix AI Framework Core Engine,
+glass-of-water,MAL-2026-4751,2026-05-19T21:07:17+00:00,17.789109840347223,18.95967161054398,4,A simple utility wrapper for API access,
+pycalendar-api,MAL-2026-4764,2026-05-19T21:36:55+00:00,17.768531136643517,92.59736800247684,5,Python client of Calendar API,
+eplang,MAL-2026-4748,2026-05-19T21:37:17+00:00,17.76827650701389,63.85076335472222,32,"EPL - English Programming Language: write code in plain English. Build apps, web servers, and more.",
+silly-logger,MAL-2026-4767,2026-05-19T21:50:33+00:00,17.759063544050925,19.71836299488426,6,just a silly logger :P,
+aurafarmer,MAL-2026-4741,2026-05-19T21:52:37+00:00,17.75762835886574,30.373177696168984,12,PRO — Terminal AI Coding Agent by SPRUKY,
+aurapro-ui,MAL-2026-4742,2026-05-19T22:01:39+00:00,17.75135521071759,30.445915557372683,48,AuraPro UI,
+morin,MAL-2026-4757,2026-05-19T22:06:36+00:00,17.747917710717594,590.3536378977315,169,Помощь в подключениях и загрузке в БД,
+vlifegram,MAL-2026-4773,2026-05-20T17:29:55+00:00,16.940058914421297,193.94807152752313,8,"Elegant, modern and asynchronous Telegram MTProto API framework in Python ( Fork From Pyrogram )",
+txdpy,MAL-2026-4772,2026-05-20T17:54:34+00:00,16.92294085886574,470.3156655021412,38,,
+selfservsweeper,MAL-2026-4221,2026-05-21T01:29:54+00:00,16.606737155162037,100.31602771704861,7,Touch-friendly Minesweeper overlay for NCR SelfServ kiosks,https://bad-packages.kam193.eu/pypi/package/selfservsweeper
+wdt-erpmcp,MAL-2026-4775,2026-05-21T06:46:46+00:00,16.38669085886574,18.32234141105324,37,,
+nvidia-nat-semantic-kernel,MAL-2026-4760,2026-05-21T10:47:05+00:00,16.219804284791667,302.0027416225,391,Subpackage for Semantic-Kernel integration in NeMo Agent Toolkit,
+fakehuop,MAL-2026-4749,2026-05-21T22:22:13+00:00,15.737072803310186,88.78151142866898,17,Example PyPI package just to help with moduels no Chating ,
+mathepy,MAL-2026-4755,2026-05-21T22:51:51+00:00,15.716494099606482,15.73650336070602,14,Module for Quick Calculations,
+vulndify-mcp-server,MAL-2026-4774,2026-05-22T03:25:07+00:00,15.526725581087963,15.545736498437499,1,A minimal MCP server demo exposing a hello tool.,
+sklern,MAL-2026-4768,2026-05-22T07:56:04+00:00,15.33856585886574,88.82098889980324,11,Example PyPI package,
+whatsfly-labfox,MAL-2026-4776,2026-05-24T16:52:15+00:00,12.966216321828703,615.1431036814121,7,"Whatsapp Web wrapper in Python, without webdrivers",
+cch-agent,MAL-2026-4744,2026-05-25T15:29:44+00:00,12.023519562569446,12.073312176099538,7,A simple CLI chat agent with streaming output,
+spip-pth-demo,MAL-2026-4770,2026-05-25T20:01:58+00:00,11.83446863664352,11.865860339131943,3,Demo package showing how .pth files can execute code on Python startup,
+pywingui,MAL-2026-4821,2026-05-26T14:39:03+00:00,11.058716321828705,179.26455814359954,57,Intelligent Windows GUI Automation Framework (Compiled),

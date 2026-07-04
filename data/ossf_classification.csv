@@ -1,0 +1,65 @@
+name,advisory_age_days,downloads_last_month,total_python_loc,high_severity_count,auto_classification,final_classification,rationale
+llmboost-hub,207.6,443,8913,5,confirmed_malicious,confirmed_malicious_high_confidence,low downloads (443) + small LOC (8913) + code attempts to access credential paths
+d4rktg,24.4,393,2748,1,confirmed_malicious,confirmed_malicious_high_confidence,low downloads (393) + small LOC (2748) + code reads sensitive environment variables
+aurafarmer,17.8,228,1344,1,confirmed_malicious,confirmed_malicious_high_confidence,low downloads (228) + small LOC (1344) + code attempts to access credential paths
+nebulix-ai,17.8,161,971,1,confirmed_malicious,confirmed_malicious_high_confidence,low downloads (161) + small LOC (971) + code attempts to access credential paths
+kraken123,281.2,86,4327,30,confirmed_malicious,confirmed_malicious_high_confidence,low downloads (86) + small LOC (4327) + code attempts to access credential paths
+tui-ascii-art,78.0,70,3580,2,confirmed_malicious,confirmed_malicious_high_confidence,low downloads (70) + small LOC (3580) + code attempts to access credential paths
+chunqiuwestj-pkg-westj137,680.0,34,25,1,confirmed_malicious,confirmed_malicious_high_confidence,high-severity in install hook: high-severity findings in install hook: 1
+crazehub,25.3,0,1058,1,confirmed_malicious,confirmed_malicious_high_confidence,low downloads (0) + small LOC (1058) + code references suspicious exfiltration domain
+always-updates,24.9,0,59,0,namespace_squat_no_payload,confirmed_malicious_high_confidence,high-severity in install hook: small package with install hook but no malicious indicator
+saas-common-lib-473815,17.8,1106,1793,2,confirmed_malicious,needs_manual_verification,auto classifier flagged but 1106 dl/month + 1793 LOC ambiguous
+enhancer,25.3,1068,204,2,confirmed_malicious,needs_manual_verification,auto classifier flagged but 1068 dl/month + 204 LOC ambiguous
+kaggle-runner,25.2,762,23032,2,confirmed_malicious,needs_manual_verification,auto classifier flagged but 762 dl/month + 23032 LOC ambiguous
+clearml-truen-patch,17.8,358,244771,12,confirmed_malicious,needs_manual_verification,auto classifier flagged but 358 dl/month + 244771 LOC ambiguous
+apilogicserver,385.5,0,154089,3,confirmed_malicious,needs_manual_verification,auto classifier flagged but 0 dl/month + 154089 LOC ambiguous
+bioql,248.9,0,74733,15,confirmed_malicious,needs_manual_verification,auto classifier flagged but 0 dl/month + 74733 LOC ambiguous
+telnyx,71.5,0,400348,20,confirmed_malicious,needs_manual_verification,auto classifier flagged but 0 dl/month + 400348 LOC ambiguous
+elementary-data,42.7,0,15554,1,confirmed_malicious,needs_manual_verification,auto classifier flagged but 0 dl/month + 15554 LOC ambiguous
+treeherder-submitter,313.0,46,25,0,poc_or_educational,poc_or_educational,self-declared PoC/educational/demo marker in README or metadata
+nvidia-clara-sim,680.0,14,0,0,poc_or_educational,poc_or_educational,self-declared PoC/educational/demo marker in README or metadata
+pywingui,11.1,9008,0,0,empty_or_placeholder,empty_or_placeholder,"only 0 LOC, no install hook"
+pymatcha,639.8,94,18,0,empty_or_placeholder,empty_or_placeholder,"only 18 LOC, no install hook"
+libtpu-nightly,1130.5,27,3,0,empty_or_placeholder,empty_or_placeholder,"only 3 LOC, no install hook"
+flask-tdg-cyberx,292.8,27,5,0,empty_or_placeholder,empty_or_placeholder,"only 5 LOC, no install hook"
+wdt-erpmcp,16.4,2816,330,0,undetermined,undetermined,"findings=1, LOC=330"
+kwargs,309.9,929,44,0,undetermined,undetermined,"findings=0, LOC=44"
+silly-logger,17.8,442,0,0,undetermined,undetermined,
+vlifegram,16.9,274,0,0,undetermined,undetermined,
+c2,647.8,216,96,0,undetermined,undetermined,"findings=0, LOC=96"
+glass-of-water,17.8,139,63,0,undetermined,undetermined,"findings=0, LOC=63"
+dlty,25.3,99,49,0,undetermined,undetermined,"findings=1, LOC=49"
+spiderai,612.3,53,154,0,undetermined,undetermined,"findings=0, LOC=154"
+bitcommit,647.8,39,96,0,undetermined,undetermined,"findings=0, LOC=96"
+discord-boost,711.1,0,26,0,undetermined,undetermined,"findings=1, LOC=26"
+crunchie,680.0,0,35,0,undetermined,undetermined,"findings=0, LOC=35"
+mymaldependency,25.3,0,22,0,undetermined,undetermined,"findings=1, LOC=22"
+vulndify-mcp-server,15.5,0,196,0,undetermined,undetermined,"findings=7, LOC=196"
+cch-agent,12.0,0,478,0,undetermined,undetermined,"findings=1, LOC=478"
+spip-pth-demo,11.8,0,0,0,undetermined,undetermined,
+litellm,74.2,563991619,638908,166,confirmed_malicious,likely_legitimate_framework,563991619 downloads/month signals active legitimate usage
+mistralai,25.4,51192093,134664,0,poc_or_educational,likely_legitimate_framework,51192093 downloads/month signals active legitimate usage
+num2words,304.6,7542598,33775,1,confirmed_malicious,likely_legitimate_framework,7542598 downloads/month signals active legitimate usage
+lightning,37.0,5633959,56358,1,confirmed_malicious,likely_legitimate_framework,5633959 downloads/month signals active legitimate usage
+durabletask,18.0,400287,16010,0,false_positive_legitimate,likely_legitimate_framework,400287 downloads/month signals active legitimate usage
+xinference,44.7,23615,209396,4,confirmed_malicious,likely_legitimate_framework,209396 LOC + 23615 downloads/month indicates mature legitimate project
+aurapro-ui,17.8,6503,89365,4,confirmed_malicious,likely_legitimate_framework,89365 LOC + 6503 downloads/month indicates mature legitimate project
+eplang,17.8,2001,97086,29,confirmed_malicious,likely_legitimate_framework,97086 LOC + 2001 downloads/month indicates mature legitimate project
+crw,17.8,2100,2436,0,false_positive_legitimate,false_positive_legitimate,"2436 LOC, no malicious indicators"
+morin,17.7,1290,11091,0,false_positive_legitimate,false_positive_legitimate,"11091 LOC, no malicious indicators"
+guan,25.3,1149,6529,0,false_positive_legitimate,false_positive_legitimate,"6529 LOC, no malicious indicators"
+fakehuop,15.7,943,1642,0,false_positive_legitimate,false_positive_legitimate,"1642 LOC, no malicious indicators"
+buddyme,17.8,617,10807,0,false_positive_legitimate,false_positive_legitimate,"10807 LOC, no malicious indicators"
+dcchbot,25.3,128,573,0,false_positive_legitimate,false_positive_legitimate,"573 LOC, no malicious indicators"
+projz-py,25.3,126,3532,0,false_positive_legitimate,false_positive_legitimate,"3532 LOC, no malicious indicators"
+soundsource,17.8,117,944,0,false_positive_legitimate,false_positive_legitimate,"944 LOC, no malicious indicators"
+pycalendar-api,17.8,116,1728,0,false_positive_legitimate,false_positive_legitimate,"1728 LOC, no malicious indicators"
+pirxcypackage,25.3,68,3208,0,false_positive_legitimate,false_positive_legitimate,"3208 LOC, no malicious indicators"
+hack-test,651.7,55,701,0,false_positive_legitimate,false_positive_legitimate,"701 LOC, no malicious indicators"
+amino-fix,24.7,0,15513,0,false_positive_legitimate,false_positive_legitimate,"15513 LOC, no malicious indicators"
+txdpy,16.9,0,3099,0,false_positive_legitimate,false_positive_legitimate,"3099 LOC, no malicious indicators"
+selfservsweeper,16.6,0,2358,0,false_positive_legitimate,false_positive_legitimate,"2358 LOC, no malicious indicators"
+nvidia-nat-semantic-kernel,16.2,0,547,0,false_positive_legitimate,false_positive_legitimate,"547 LOC, no malicious indicators"
+mathepy,15.7,0,4785,0,false_positive_legitimate,false_positive_legitimate,"4785 LOC, no malicious indicators"
+sklern,15.3,0,2098,0,false_positive_legitimate,false_positive_legitimate,"2098 LOC, no malicious indicators"
+whatsfly-labfox,13.0,0,3194,0,false_positive_legitimate,false_positive_legitimate,"3194 LOC, no malicious indicators"

@@ -1,0 +1,34 @@
+name,source,expected_attack_class,disclosure_date,notes
+huggingface-cli,disclosed_incident,slopsquatting,2024-03-28,Most popular hallucinated name; referenced by Alibaba docs
+arangopipe,disclosed_incident,slopsquatting,2024-03-28,"Lanyado registered as empty package, 30K+ downloads"
+py-bcrypt-cffi,disclosed_incident,slopsquatting,2024-04-12,Reported in Help Net Security article
+requests3,disclosed_incident,typosquatting,2025-09-15,Check Point typosquatting campaign
+colorama-utils,disclosed_incident,typosquatting,2025-09-15,Check Point campaign - mimics colorama
+py-requests,disclosed_incident,typosquatting,2025-09-15,Check Point campaign
+sisaws,disclosed_incident,typosquatting,2025-08-21,ThreatLabz/Zscaler - typosquats sisa Argentina health
+secmeasure,disclosed_incident,other,2025-08-21,ThreatLabz SilentSync RAT
+termncolor,disclosed_incident,typosquatting,2025-07-18,termncolor RAT package
+openai-sdk-helper,hallucination_sample,slopsquatting,,Hallucination from 'how to use OpenAI Python' prompt
+torch-utils-extra,hallucination_sample,slopsquatting,,Hallucination mimicking torch.utils namespace
+scikit-learn-helpers,hallucination_sample,slopsquatting,,Hallucination inspired by scikit-learn
+pytorch-lightning-pro,hallucination_sample,slopsquatting,,Hallucination mimicking pytorch-lightning
+pandas-utility-tools,hallucination_sample,slopsquatting,,Hallucination inspired by pandas
+fastapi-jwt-helper,hallucination_sample,slopsquatting,,Hallucination combining fastapi + jwt
+django-rest-cors,hallucination_sample,slopsquatting,,Hallucination mimicking django-cors-headers
+numpy-extensions,hallucination_sample,slopsquatting,,Simple hallucination from numpy namespace
+matplotlib-pro,hallucination_sample,slopsquatting,,Hallucination mimicking matplotlib
+requests-async-utils,hallucination_sample,slopsquatting,,Hallucination from requests async wrapper
+flask-jwt-auth,hallucination_sample,slopsquatting,,Hallucination mimicking flask-jwt-extended
+tensorflow-keras-utils,hallucination_sample,slopsquatting,,Hallucination from keras namespace
+opencv-python-utils,hallucination_sample,slopsquatting,,Hallucination inspired by opencv-python
+redis-py-client,hallucination_sample,slopsquatting,,Hallucination mimicking redis-py
+sqlalchemy-orm-utils,hallucination_sample,slopsquatting,,Hallucination mimicking SQLAlchemy
+celery-beat-tools,hallucination_sample,slopsquatting,,Hallucination from celery beat scheduler
+airflow-dag-utils,hallucination_sample,slopsquatting,,Hallucination from apache-airflow namespace
+kafka-python-client,hallucination_sample,slopsquatting,,Hallucination mimicking kafka-python
+aiohttp-cors-utils,hallucination_sample,slopsquatting,,Hallucination from aiohttp ecosystem
+pydantic-validators,hallucination_sample,slopsquatting,,Hallucination mimicking pydantic
+typer-cli-tools,hallucination_sample,slopsquatting,,Hallucination from typer CLI framework
+requests,control,n/a,,"Control - real package, not a research subject"
+numpy,control,n/a,,Control - real package
+pandas,control,n/a,,Control - real package

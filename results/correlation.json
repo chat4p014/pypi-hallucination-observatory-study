@@ -1,0 +1,70 @@
+{
+  "n_total": 24,
+  "n_nonzero_downloads": 18,
+  "spearman_all": {
+    "rho": 0.18099193648508827,
+    "p_value": 0.3907462603397759,
+    "ci_95_low": -0.3245740881231879,
+    "ci_95_high": 0.6576816957277485
+  },
+  "spearman_nonzero_downloads": {
+    "rho": 0.7999593310780128,
+    "p_value": 1.2181211905826217e-07,
+    "ci_95_low": 0.46903306683313867,
+    "ci_95_high": 0.9699416540688076
+  },
+  "top5_by_downloads": [
+    {
+      "name": "litellm",
+      "releases": 1168,
+      "downloads_month": 563991619
+    },
+    {
+      "name": "num2words",
+      "releases": 15,
+      "downloads_month": 7542598
+    },
+    {
+      "name": "lightning",
+      "releases": 171,
+      "downloads_month": 5633959
+    },
+    {
+      "name": "xinference",
+      "releases": 143,
+      "downloads_month": 23615
+    },
+    {
+      "name": "kwargs",
+      "releases": 1,
+      "downloads_month": 929
+    }
+  ],
+  "top5_by_releases": [
+    {
+      "name": "litellm",
+      "releases": 1168,
+      "downloads_month": 563991619
+    },
+    {
+      "name": "telnyx",
+      "releases": 237,
+      "downloads_month": 0
+    },
+    {
+      "name": "lightning",
+      "releases": 171,
+      "downloads_month": 5633959
+    },
+    {
+      "name": "xinference",
+      "releases": 143,
+      "downloads_month": 23615
+    },
+    {
+      "name": "elementary-data",
+      "releases": 95,
+      "downloads_month": 0
+    }
+  ]
+}

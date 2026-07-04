@@ -1,0 +1,65 @@
+name,source,fetch_time_utc,status,last_day,last_week,last_month,error_message
+libtpu-nightly,ossf_still_alive_64,2026-06-20T01:55:22.283188+00:00,ok,1,2,27,
+discord-boost,ossf_still_alive_64,2026-06-20T01:55:24.243755+00:00,error,,,,HTTP 429
+nvidia-clara-sim,ossf_still_alive_64,2026-06-20T01:55:26.803953+00:00,ok,0,3,14,
+chunqiuwestj-pkg-westj137,ossf_still_alive_64,2026-06-20T01:55:28.608359+00:00,ok,0,14,34,
+crunchie,ossf_still_alive_64,2026-06-20T01:55:30.386157+00:00,error,,,,HTTP 429
+hack-test,ossf_still_alive_64,2026-06-20T01:55:32.228876+00:00,ok,1,12,55,
+bitcommit,ossf_still_alive_64,2026-06-20T01:55:33.995334+00:00,ok,0,7,39,
+c2,ossf_still_alive_64,2026-06-20T01:55:35.813004+00:00,ok,5,46,216,
+pymatcha,ossf_still_alive_64,2026-06-20T01:55:37.656745+00:00,ok,5,28,94,
+spiderai,ossf_still_alive_64,2026-06-20T01:55:39.427831+00:00,ok,0,12,53,
+apilogicserver,ossf_still_alive_64,2026-06-20T01:55:41.233382+00:00,error,,,,HTTP 429
+treeherder-submitter,ossf_still_alive_64,2026-06-20T01:55:43.009643+00:00,ok,1,8,46,
+kwargs,ossf_still_alive_64,2026-06-20T01:55:44.779362+00:00,ok,34,231,929,
+num2words,ossf_still_alive_64,2026-06-20T01:55:46.550008+00:00,ok,301015,1845237,7542598,
+flask-tdg-cyberx,ossf_still_alive_64,2026-06-20T01:55:48.408049+00:00,ok,0,3,27,
+kraken123,ossf_still_alive_64,2026-06-20T01:55:50.251336+00:00,ok,0,22,86,
+bioql,ossf_still_alive_64,2026-06-20T01:55:52.094613+00:00,error,,,,HTTP 429
+llmboost-hub,ossf_still_alive_64,2026-06-20T01:55:53.937992+00:00,ok,0,66,443,
+tui-ascii-art,ossf_still_alive_64,2026-06-20T01:55:55.744982+00:00,ok,2,9,70,
+litellm,ossf_still_alive_64,2026-06-20T01:55:57.522415+00:00,ok,19664111,125923173,563991619,
+telnyx,ossf_still_alive_64,2026-06-20T01:55:59.285020+00:00,error,,,,HTTP 429
+xinference,ossf_still_alive_64,2026-06-20T01:56:01.052458+00:00,ok,653,4796,23615,
+elementary-data,ossf_still_alive_64,2026-06-20T01:56:02.815254+00:00,error,,,,HTTP 429
+lightning,ossf_still_alive_64,2026-06-20T01:56:04.585598+00:00,ok,196432,1578580,5633959,
+mistralai,ossf_still_alive_64,2026-06-20T01:56:06.411190+00:00,ok,1919163,12404556,51192093,
+guan,ossf_still_alive_64,2026-06-20T01:56:08.273972+00:00,ok,1,15,1149,
+dcchbot,ossf_still_alive_64,2026-06-20T01:56:10.117363+00:00,ok,0,6,128,
+enhancer,ossf_still_alive_64,2026-06-20T01:56:11.960515+00:00,ok,58,257,1068,
+mymaldependency,ossf_still_alive_64,2026-06-20T01:56:13.803566+00:00,error,,,,HTTP 429
+pirxcypackage,ossf_still_alive_64,2026-06-20T01:56:15.646746+00:00,ok,4,14,68,
+projz-py,ossf_still_alive_64,2026-06-20T01:56:17.417848+00:00,ok,0,14,126,
+crazehub,ossf_still_alive_64,2026-06-20T01:56:19.743583+00:00,error,,,,HTTP 429
+dlty,ossf_still_alive_64,2026-06-20T01:56:21.586979+00:00,ok,0,5,99,
+kaggle-runner,ossf_still_alive_64,2026-06-20T01:56:23.354031+00:00,ok,3,373,762,
+always-updates,ossf_still_alive_64,2026-06-20T01:56:25.171019+00:00,error,,,,HTTP 429
+amino-fix,ossf_still_alive_64,2026-06-20T01:56:27.012220+00:00,error,,,,HTTP 429
+d4rktg,ossf_still_alive_64,2026-06-20T01:56:28.783166+00:00,ok,1,15,393,
+durabletask,ossf_still_alive_64,2026-06-20T01:56:30.549887+00:00,ok,14528,101419,400287,
+crw,ossf_still_alive_64,2026-06-20T01:56:32.338699+00:00,ok,30,464,2100,
+buddyme,ossf_still_alive_64,2026-06-20T01:56:34.181860+00:00,ok,0,9,617,
+soundsource,ossf_still_alive_64,2026-06-20T01:56:35.948586+00:00,ok,0,10,117,
+clearml-truen-patch,ossf_still_alive_64,2026-06-20T01:56:37.765639+00:00,ok,7,155,358,
+saas-common-lib-473815,ossf_still_alive_64,2026-06-20T01:56:39.608801+00:00,ok,4,204,1106,
+nebulix-ai,ossf_still_alive_64,2026-06-20T01:56:41.374543+00:00,ok,3,11,161,
+glass-of-water,ossf_still_alive_64,2026-06-20T01:56:43.295270+00:00,ok,0,2,139,
+pycalendar-api,ossf_still_alive_64,2026-06-20T01:56:45.061886+00:00,ok,0,7,116,
+eplang,ossf_still_alive_64,2026-06-20T01:56:46.828297+00:00,ok,63,482,2001,
+silly-logger,ossf_still_alive_64,2026-06-20T01:56:48.595282+00:00,ok,1,13,442,
+aurafarmer,ossf_still_alive_64,2026-06-20T01:56:50.413156+00:00,ok,0,8,228,
+aurapro-ui,ossf_still_alive_64,2026-06-20T01:56:52.204920+00:00,ok,605,2306,6503,
+morin,ossf_still_alive_64,2026-06-20T01:56:54.047371+00:00,ok,15,86,1290,
+vlifegram,ossf_still_alive_64,2026-06-20T01:56:55.895955+00:00,ok,0,1,274,
+txdpy,ossf_still_alive_64,2026-06-20T01:56:57.734124+00:00,error,,,,HTTP 429
+selfservsweeper,ossf_still_alive_64,2026-06-20T01:56:59.577411+00:00,error,,,,HTTP 429
+wdt-erpmcp,ossf_still_alive_64,2026-06-20T01:57:01.344381+00:00,ok,1,41,2816,
+nvidia-nat-semantic-kernel,ossf_still_alive_64,2026-06-20T01:57:03.113249+00:00,error,,,,HTTP 429
+fakehuop,ossf_still_alive_64,2026-06-20T01:57:04.883709+00:00,ok,20,174,943,
+mathepy,ossf_still_alive_64,2026-06-20T01:57:06.648337+00:00,error,,,,HTTP 429
+vulndify-mcp-server,ossf_still_alive_64,2026-06-20T01:57:08.415807+00:00,error,,,,HTTP 429
+sklern,ossf_still_alive_64,2026-06-20T01:57:10.226981+00:00,error,,,,HTTP 429
+whatsfly-labfox,ossf_still_alive_64,2026-06-20T01:57:12.070373+00:00,error,,,,HTTP 429
+cch-agent,ossf_still_alive_64,2026-06-20T01:57:13.913624+00:00,error,,,,HTTP 429
+spip-pth-demo,ossf_still_alive_64,2026-06-20T01:57:15.756951+00:00,error,,,,HTTP 429
+pywingui,ossf_still_alive_64,2026-06-20T01:57:17.599896+00:00,ok,2015,3837,9008,

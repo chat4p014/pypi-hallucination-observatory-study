@@ -1,0 +1,72 @@
+package_name,observation_time_utc,status,first_seen_utc,last_release_utc,release_count,latest_version,summary,home_page,author,requires_python,yanked_any,classifiers_count,has_description,http_status
+aioohttp,2026-05-31T03:04:56.242274+00:00,not_found,,,0,,,,,,False,0,False,404
+apilogicserver,2026-05-31T03:04:56.755644+00:00,alive,2021-02-07T00:53:03.237748Z,2026-05-29T16:47:28.853995Z,62,17.0.31,,,,>=3.10,True,11,True,200
+arangopipe,2026-05-31T03:04:57.255797+00:00,alive,2019-09-24T00:36:49.038272Z,2022-09-14T22:29:54.072758Z,24,0.0.70.0.2,package for machine learning meta-data management and analysis,https://github.com/arangoml/arangopipe,ArangoDB,,False,3,True,200
+asyncio-addon,2026-05-31T03:04:57.755958+00:00,alive,2025-07-04T06:40:12.860189Z,2025-07-05T02:56:35.322090Z,3,0.3.0,Some convenient utilities for asyncio,,,>=3.11,False,4,True,200
+bioql,2026-05-31T03:04:58.256038+00:00,alive,2025-09-29T17:11:10.548095Z,2026-01-15T00:08:26.895362Z,63,7.0.1,"Production Quantum Computing for Drug Discovery - FMO-VQE, DC-QAOA, Adaptive QEC, Real Hardware Only",https://bioql.bio,SpectrixRD,>=3.8,False,13,True,200
+bitcommit,2026-05-31T03:04:58.756212+00:00,alive,2022-05-11T14:47:19.094214Z,2022-05-11T14:47:20.852776Z,1,0.1.7,No more commenting your code: Use the GPT3-based CodeCommenter,,"Standard Data, Inc.",">=3.9,<4.0",False,3,False,200
+c2,2026-05-31T03:04:59.256302+00:00,alive,2022-05-10T03:42:23.468051Z,2022-05-10T19:46:05.249191Z,8,0.1.7,No more commenting your code: Use the GPT3-based CodeCommenter,,"Standard Data, Inc.",">=3.9,<4.0",False,3,False,200
+chunqiuwestj-pkg-westj137,2026-05-31T03:04:59.756496+00:00,alive,2023-05-16T10:45:11.139606Z,2023-05-16T10:45:11.139606Z,1,0.3.0,A small example package,https://github.com,qinshutian,>=3.6,False,3,False,200
+cick,2026-05-31T03:05:00.256635+00:00,not_found,,,0,,,,,,False,0,False,404
+click-extended,2026-05-31T03:05:00.756829+00:00,alive,2025-11-14T11:42:21.781557Z,2026-03-23T19:58:40.661505Z,49,1.4.0,"An extension to Click with additional features like automatic async support, aliasing and a modular decorator system.",,,>=3.10,False,13,True,200
+crunchie,2026-05-31T03:05:01.257023+00:00,alive,2023-06-27T10:20:16.462968Z,2023-06-27T10:20:19.048289Z,1,205.0.0,Package that does absolutely nothing,,daneee,,False,0,False,200
+discord-boost,2026-05-31T03:05:01.757207+00:00,alive,2026-04-25T09:55:53.368113Z,2026-04-25T10:13:03.202243Z,6,0.6.0,Discord Boost Library,,D1sc00rd,>=3.8,False,0,False,200
+djanggo,2026-05-31T03:05:02.257284+00:00,not_found,,,0,,,,,,False,0,False,404
+django-cli,2026-05-31T03:05:02.757395+00:00,alive,,,1,0.0.1,Command line interface for sensible Django projects.,https://github.com/brandonjschwartz/django-cli,Brandon J. Schwartz,,False,10,True,200
+elementary-data,2026-05-31T03:05:03.257570+00:00,alive,2022-02-01T12:14:51.674478Z,2026-05-28T08:13:23.240076Z,94,0.24.0,Data monitoring and lineage,,Elementary,"<3.14,>=3.10",False,9,True,200
+flask-jwt-auth,2026-05-31T03:05:03.757756+00:00,alive,2020-08-24T13:52:09.618674Z,2021-12-03T06:24:06.200099Z,6,0.0.10,This module contains a simple class to implement authentication and authorization in a Flask app using JSON Web Token (JWT),https://github.com/Quakingaspen-codehub/flask_jwt_auth,Quaking Aspen,>=3.6,False,3,True,200
+flask-tdg-cyberx,2026-05-31T03:05:04.257936+00:00,alive,2025-08-21T11:20:23.955550Z,2025-08-21T11:20:25.554641Z,1,3.300.41,play CTF,,,>=3.7,False,3,True,200
+hack-test,2026-05-31T03:05:04.758115+00:00,alive,2025-11-23T15:08:34.823424Z,2025-11-24T04:20:45.584969Z,4,0.4,,,,,False,0,False,200
+httpx-utils,2026-05-31T03:05:05.258243+00:00,not_found,,,0,,,,,,False,0,False,404
+httpx2,2026-05-31T03:05:05.758376+00:00,alive,2026-05-11T06:12:34.916478Z,2026-05-17T05:29:57.376122Z,5,2.2.0,The next generation HTTP client.,,,>=3.10,False,15,True,200
+kraken123,2026-05-31T03:05:06.258546+00:00,alive,2025-08-29T10:32:51.354738Z,2025-09-14T20:38:37.097770Z,5,0.5.0,A virus package FOR EDUCATIONAL PURPOSES ONLY,,,,False,6,True,200
+kwargs,2026-05-31T03:05:06.758702+00:00,alive,2026-01-09T21:16:16.902181Z,2026-01-09T21:16:18.661851Z,1,0.0.0.dev0,kwargs,,,>=3.11,False,8,True,200
+libtpu-nightly,2026-05-31T03:05:07.258905+00:00,alive,2023-02-18T02:03:31.977146Z,2023-02-18T02:03:35.116346Z,1,0.0.1,A small example package,,,>=3.7,True,3,True,200
+lightning,2026-05-31T03:05:07.759113+00:00,alive,2022-10-27T14:36:51.476235Z,2026-05-27T14:33:41.806549Z,171,2.6.5,"The Deep Learning framework to train, deploy, and ship AI products Lightning fast.",https://github.com/Lightning-AI/lightning,Lightning AI et al.,>=3.10,True,13,True,200
+lightning_core,2026-05-31T03:05:08.259191+00:00,alive,2026-03-28T16:54:37.370541Z,2026-04-15T06:07:45.574617Z,28,0.5.7,Lightning Core: macOS-first CUDA-style runtime with Metal backend,,JunHyeon Beak (Kwangwoon University),>=3.9,False,13,True,200
+litellm,2026-05-31T03:05:08.759277+00:00,alive,2023-07-27T00:36:16.462525Z,2026-05-29T02:18:36.172958Z,1282,1.86.2,Library to easily interface with LLM API providers,,BerriAI,"<3.14,>=3.10",True,0,True,200
+llmboost-hub,2026-05-31T03:05:09.259429+00:00,alive,2026-01-06T01:17:59.456844Z,2026-04-17T00:41:52.623524Z,9,0.4.3,A lightweight CLI tool for managing LLMBoost™ model images and environments.,,,>=3.11,False,3,True,200
+matpllotlib,2026-05-31T03:05:09.759623+00:00,not_found,,,0,,,,,,False,0,False,404
+mlflow-toolkit,2026-05-31T03:05:10.259853+00:00,alive,2025-07-14T13:30:47.806908Z,2025-07-29T10:32:57.959489Z,2,0.2.0,,,,>=3.7,False,0,True,200
+nlttk,2026-05-31T03:05:10.760048+00:00,alive,2026-04-12T14:16:56.222336Z,2026-04-12T14:16:57.553616Z,1,0.0.8,My Python package,,MangoJuice,>=3.8,False,0,True,200
+num2words,2026-05-31T03:05:11.260133+00:00,alive,2013-05-28T17:24:19.244227Z,2024-12-17T20:17:10.191710Z,15,0.5.14,Modules to convert numbers to words. Easily extensible.,https://github.com/savoirfairelinux/num2words,Taro Ogawa <tso at users sourceforge net>,,False,13,True,200
+numpy,2026-05-31T03:05:11.760325+00:00,alive,2006-12-02T02:07:43Z,2026-05-18T23:37:14.070174Z,146,2.4.6,Fundamental package for array computing in Python,,Travis E. Oliphant et al.,>=3.11,True,19,True,200
+numpy-lite,2026-05-31T03:05:12.260405+00:00,alive,2025-09-02T21:24:51.710443Z,2025-09-02T21:24:54.167912Z,1,1.26.4,Ultra-light minimal NumPy build (core functionality only) for AWS Lambda / serverless.,https://github.com/JacquieAM/numpy-lite,JacquieAM,>=3.12,False,2,True,200
+numpy2,2026-05-31T03:05:12.760615+00:00,alive,2026-04-08T07:23:30.186094Z,2026-05-17T08:38:22.424458Z,10,2.4.4,"numpy2: Pure-Python NumPy drop-in replacement with zero dependencies. Fixes numpy JSON serialization errors, broadcasting confusion with named dimensions, NaN/Inf handling, thread safety, JAX-style vm",https://github.com/maheshmakvana/numpy2,Mahesh Makvana,>=3.8,False,17,True,200
+nvidia-clara-sim,2026-05-31T03:05:13.260803+00:00,alive,2024-11-08T15:41:52.891627Z,2024-11-08T15:41:52.891627Z,1,0.0.0a0,Zero version placeholder for nvidia-clara-sim,,,,False,0,False,200
+pandas,2026-05-31T03:05:13.760871+00:00,alive,2009-12-25T23:58:31.560462Z,2026-05-11T18:54:29.210382Z,115,3.0.3,"Powerful data structures for data analysis, time series, and statistics",,,>=3.11,False,14,True,200
+pillw,2026-05-31T03:05:14.260946+00:00,not_found,,,0,,,,,,False,0,False,404
+pilolw,2026-05-31T03:05:14.761010+00:00,not_found,,,0,,,,,,False,0,False,404
+pip2,2026-05-31T03:05:15.261213+00:00,alive,,,1,0.0.1.dev1,Experimental port of pip to use distutils2.,http://github.com/osupython/pip2,OSUPython Senior Design Team,,False,7,True,200
+pip4,2026-05-31T03:05:15.761289+00:00,alive,2026-05-10T04:06:34.374519Z,2026-05-10T04:06:35.773794Z,1,1.1.0,"pip4 - installer super ngebut tanpa pandang memory, dengan turbo modes",,pip4 team,>=3.8,False,4,True,200
+pllow,2026-05-31T03:05:16.261483+00:00,not_found,,,0,,,,,,False,0,False,404
+pndas,2026-05-31T03:05:16.761638+00:00,not_found,,,0,,,,,,False,0,False,404
+py-requests,2026-05-31T03:05:17.261861+00:00,not_found,,,0,,,,,,False,0,False,404
+pydantic-kit,2026-05-31T03:05:17.762047+00:00,not_found,,,0,,,,,,False,0,False,404
+pydantic-validators,2026-05-31T03:05:18.262103+00:00,alive,2021-02-25T22:29:28.981027Z,2021-02-25T22:29:33.135835Z,1,0.1.0,,https://github.com/Kludex/pydantic-validators,Marcelo Trylesinski,">=3.6.1,<4.0.0",False,12,True,200
+pymatcha,2026-05-31T03:05:18.762191+00:00,alive,2024-10-16T15:29:12.721849Z,2024-10-16T15:30:08.670926Z,1,0.1.0,,,,>=3.8,False,3,False,200
+pytest-modern,2026-05-31T03:05:19.262271+00:00,alive,2025-07-10T09:12:26.589818Z,2025-08-19T03:07:13.831409Z,15,0.7.4,A more modern pytest,,,"<4,>=3.9",False,18,True,200
+ray-helper,2026-05-31T03:05:19.762450+00:00,alive,2025-11-09T08:07:27.275227Z,2025-11-09T08:45:31.266201Z,3,0.3.0,A simple package to convert text to uppercase and lowercase,,,>=3.6,False,0,True,200
+ray-python,2026-05-31T03:05:20.262644+00:00,alive,2025-11-27T16:48:03.181421Z,2025-11-27T16:48:04.569154Z,1,1.0.0,Python client for the Ray debugging app (port of spatie/ray PHP library),,AXRO GmbH,>=3.13,False,5,True,200
+ray_python,2026-05-31T03:05:20.762870+00:00,alive,2025-11-27T16:48:03.181421Z,2025-11-27T16:48:04.569154Z,1,1.0.0,Python client for the Ray debugging app (port of spatie/ray PHP library),,AXRO GmbH,>=3.13,False,5,True,200
+requests,2026-05-31T03:05:21.263026+00:00,alive,2011-02-14T08:49:42.641660Z,2026-05-14T19:25:27.735762Z,163,2.34.2,Python HTTP for Humans.,,,>=3.10,True,20,True,200
+requests-async,2026-05-31T03:05:21.763213+00:00,alive,2025-08-02T07:12:57.003403Z,2025-08-05T03:35:11.040404Z,6,0.2.4,"Simple async HTTP client with requests-like interface, powered by httpx",,requests-async contributors,>=3.7,False,13,True,200
+requests-lite,2026-05-31T03:05:22.263319+00:00,not_found,,,0,,,,,,False,0,False,404
+requests-toolkit,2026-05-31T03:05:22.763519+00:00,not_found,,,0,,,,,,False,0,False,404
+requuests,2026-05-31T03:05:23.263709+00:00,not_found,,,0,,,,,,False,0,False,404
+seaaborn,2026-05-31T03:05:23.763941+00:00,alive,2026-03-16T13:41:47.848686Z,2026-03-16T18:43:40.920565Z,4,2,Collection of machine learning tools,,DedSec,>=3.7,False,2,False,200
+secmeasure,2026-05-31T03:05:24.264046+00:00,not_found,,,0,,,,,,False,0,False,404
+sisaws,2026-05-31T03:05:24.764203+00:00,not_found,,,0,,,,,,False,0,False,404
+smartRequests,2026-05-31T03:05:25.264305+00:00,alive,2025-07-20T15:57:41.369853Z,2025-07-20T15:57:44.975504Z,2,0.1.1,A smart wrapper over requests with built-in delays and headers.,,Amal Alexander,>=3.6,False,3,True,200
+spiderai,2026-05-31T03:05:25.764533+00:00,alive,2024-11-28T14:20:56.797327Z,2024-11-29T07:39:06.336520Z,4,0.1.0,A Python library for extracting structured data from web pages using AI.,,,>=3.10,False,3,True,200
+sqlalchemy-lite,2026-05-31T03:05:26.264681+00:00,alive,2026-02-12T12:44:46.620469Z,2026-02-12T12:44:48.256848Z,1,0.1.0,"A future-proof, greenlet-free adapter for SQLAlchemy 2.0 and databases.",,gnakw,>=3.11,False,0,True,200
+superFastapi,2026-05-31T03:05:26.764765+00:00,alive,2025-09-06T16:28:23.300292Z,2025-09-06T16:30:42.382883Z,2,0.1.3,"Build versioned APIs from single-block functions with inline tests, locks, and FastAPI serving.",,Chase Anderson,>=3.10,False,11,True,200
+superPip,2026-05-31T03:05:27.264934+00:00,not_found,,,0,,,,,,False,0,False,404
+telnyx,2026-05-31T03:05:27.765026+00:00,alive,2019-07-01T16:32:02.388303Z,2026-05-29T16:55:37.051140Z,223,4.146.0,The official Python library for the telnyx API,,,>=3.9,True,15,True,200
+termncolor,2026-05-31T03:05:28.265131+00:00,not_found,,,0,,,,,,False,0,False,404
+torrch,2026-05-31T03:05:28.765345+00:00,alive,2025-06-15T18:02:05.433667Z,2025-06-16T20:44:40.402775Z,6,0.0.6,This is the simplest module for quick work with files.,https://github.com/vadlord,dudadu,>=3.6,False,3,True,200
+treeherder-submitter,2026-05-31T03:05:29.265536+00:00,alive,2025-07-28T14:04:16.549579Z,2025-07-28T14:04:17.596964Z,1,0.0.1,Safe dummy package to demonstrate PoC upload - cygut7,https://cygut7.cygut7,cygut7,>=3.6,False,1,True,200
+tui-ascii-art,2026-05-31T03:05:29.765730+00:00,alive,2026-03-04T20:54:41.986252Z,2026-03-04T20:59:53.776667Z,2,0.1.1,Programmatic ASCII art generation for TUIs,,,>=3.10,False,0,True,200
+websocckets,2026-05-31T03:05:30.265925+00:00,not_found,,,0,,,,,,False,0,False,404
+whel,2026-05-31T03:05:30.799047+00:00,not_found,,,0,,,,,,False,0,False,404
+xinference,2026-05-31T03:05:31.299245+00:00,alive,2023-07-07T09:18:04.609671Z,2026-05-23T10:08:51.596428Z,141,2.9.0,Model Serving Made Easy,https://github.com/xorbitsai/inference,Qin Xuye,,False,9,True,200
